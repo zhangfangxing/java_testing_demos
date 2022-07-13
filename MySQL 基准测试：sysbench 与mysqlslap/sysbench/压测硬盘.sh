@@ -1,0 +1,1 @@
+sysbench --test=fileio --file-total-size=1G --file-test-mode=rndrw run

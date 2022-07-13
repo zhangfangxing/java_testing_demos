@@ -1,0 +1,1 @@
+sysbench  --test=memory run

@@ -1,0 +1,1 @@
+mysqlslap –u root -p -a --concurrency=100 --number-of-queries 1000
